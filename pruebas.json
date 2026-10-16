@@ -1,0 +1,120 @@
+[
+  {
+    "columns": "335px",
+    "height": 844,
+    "navHidden": true,
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "columns": "334.094px 334.109px",
+    "height": 1024,
+    "navHidden": true,
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "columns": "370.125px 370.141px 370.125px",
+    "height": 900,
+    "navHidden": false,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "test": "menu open",
+    "value": "true"
+  },
+  {
+    "expanded": "false",
+    "focus": "menu-button",
+    "test": "Escape"
+  },
+  {
+    "test": "filtro",
+    "visible": 1,
+    "status": "1 taller disponible."
+  },
+  {
+    "errors": 3,
+    "focus": "nombre",
+    "test": "empty form"
+  },
+  {
+    "test": "email invalido",
+    "value": "Escribe un correo vÃ¡lido, por ejemplo: estudiante@example.com."
+  },
+  {
+    "test": "valid form",
+    "status": "ValidaciÃ³n completada. Tu participaciÃ³n de prueba es correcta. No se enviaron ni guardaron datos."
+  },
+  {
+    "active": "Saltar al contenido",
+    "focusVisible": true,
+    "outline": "rgb(23, 79, 190) solid 3px",
+    "test": "primer Tab"
+  },
+  {
+    "active": "contenido",
+    "test": "salto al contenido"
+  },
+  {
+    "client": 305,
+    "scroll": 305,
+    "test": "reflow",
+    "width": 320
+  },
+  {
+    "client": 752,
+    "scroll": 752,
+    "test": "reflow",
+    "width": 767
+  },
+  {
+    "client": 753,
+    "scroll": 753,
+    "test": "reflow",
+    "width": 768
+  },
+  {
+    "client": 1008,
+    "scroll": 1008,
+    "test": "reflow",
+    "width": 1023
+  },
+  {
+    "client": 1009,
+    "scroll": 1009,
+    "test": "reflow",
+    "width": 1024
+  },
+  {
+    "body": "32px",
+    "client": 1425,
+    "font": "32px",
+    "scroll": 1425,
+    "test": "texto 200%",
+    "width": 1440
+  },
+  {
+    "brokenAnchors": 0,
+    "duplicateIds": [],
+    "h1": 1,
+    "images": [
+      {
+        "alt": true,
+        "loaded": true
+      }
+    ],
+    "labels": true,
+    "sections": 6,
+    "test": "estructura"
+  },
+  {
+    "test": "console",
+    "logs": []
+  },
+  {
+    "test": "taller estructura tras corrección HTML",
+    "resultado": "seleccionado; lista completa con tres opciones más selección inicial"
+  }
+]

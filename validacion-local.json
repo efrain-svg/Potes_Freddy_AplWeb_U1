@@ -1,0 +1,35 @@
+{
+  "html": "Revisión local de cierres y anidación explícita, atributos, IDs, referencias ARIA, enlaces internos y jerarquía: sin errores. No es una validación normativa completa.",
+  "contrastes": [
+    {
+      "frente": "172b36",
+      "fondo": "fbfaf5",
+      "ratio": 14.0
+    },
+    {
+      "frente": "455c64",
+      "fondo": "fbfaf5",
+      "ratio": 6.77
+    },
+    {
+      "frente": "ffffff",
+      "fondo": "174fbe",
+      "ratio": 7.25
+    },
+    {
+      "frente": "fbfaf5",
+      "fondo": "172b36",
+      "ratio": 14.0
+    },
+    {
+      "frente": "a31c20",
+      "fondo": "d9eee5",
+      "ratio": 6.31
+    },
+    {
+      "frente": "174fbe",
+      "fondo": "d9eee5",
+      "ratio": 5.97
+    }
+  ]
+}

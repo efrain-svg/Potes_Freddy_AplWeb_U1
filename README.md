@@ -9,7 +9,7 @@ Sitio de una propuesta académica de talleres de desarrollo web. Es una demostra
 
 Abre `index.html` en un navegador. Todos los recursos están incluidos y las interacciones funcionan sin conexión; solo los enlaces a las guías externas requieren internet.
 
-También puedes servir `dist/` con `python -m http.server 8000` y abrir `http://localhost:8000`.
+También puedes servir la carpeta del proyecto con `python -m http.server 8000` y abrir `http://localhost:8000`.
 
 ## Estructura
 
@@ -17,7 +17,6 @@ También puedes servir `dist/` con `python -m http.server 8000` y abrir `http://
 - `styles.css`: variables, enfoque mobile first, Flexbox, Grid y media queries.
 - `app.js`: menú, filtro de talleres y validación accesible.
 - `aula.svg`: ilustración original de escritorio y móvil, con texto alternativo en HTML.
-- `.openai/hosting.json`: configuración de la demostración en Sites.
 
 ## Decisiones
 
